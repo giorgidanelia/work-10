@@ -1,0 +1,36 @@
+.section1 {
+    padding-top: 74px;
+}
+
+.section1-div1 {
+    width: 370px;
+    display: flex;
+    flex-direction: column;
+    margin: 0 0 50px 139px;
+    
+}
+
+.section1-div1 >h5 {
+    font-size: 14px;
+    color: #5863F8;
+    font-family:'Poppins-bold', sans-serif;
+    text-transform: uppercase;
+}
+
+.section1-div1 >h1 {
+    font-size: 42px;
+    color: #000000;
+    font-family:'Poppins-ExtraBold', sans-serif;
+}
+
+.section1-div3 {
+    width: 720px;
+    height: 288px;
+}
+
+.input1 {
+    width: 720px;
+    height: 288px;
+    background-color: #F8F8F8;
+    border: 1px solid #E8E8E8;
+}
